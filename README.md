@@ -1,3 +1,3 @@
 ## react globe
 
-testing out the react-globe library
+Initial set up of react-globe ThreeJS library before using in much more depth professionally. 
